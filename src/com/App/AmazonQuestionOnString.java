@@ -5,6 +5,8 @@ public class AmazonQuestionOnString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("Print this file ");
+		
 		int sum=0;
 		
 		String[] str= {"A2A","B2B","C3C","D4D"};
